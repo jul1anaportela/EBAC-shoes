@@ -29,4 +29,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Template simples de uma estrutura de um site de venda de tênis esportivo feito com css grid 
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://ebac-shoes-psi.vercel.app/)
